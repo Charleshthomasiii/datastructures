@@ -1,2 +1,2 @@
 # datastructures
-Some of my code from my data structures assignments.
+Some of my code from my data structures projects.
